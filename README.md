@@ -1,5 +1,5 @@
 # Hi, I'm Dashmeet Singh 👋
-### **Systems Engineer | Cybersecurity & MLOps Specialist**
+### **Software Engineer | Cybersecurity & MLOps Specialist**
 
 Architecting secure, intelligent, and scalable systems. I bridge the gap between robust software engineering, offensive/defensive cybersecurity, and automated MLOps pipelines. 
 
